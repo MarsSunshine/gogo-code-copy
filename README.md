@@ -2,7 +2,7 @@
 
 > iView3 转换示例项目已转移至独立仓库：https://github.com/gogocodeio/ViewUI/tree/vue3
 
-可能是全网最简单易上手，也许是可读性最强的 AST 处理工具！
+可能是全网最简单易上手，也许是可读性最强的 AST 处理工具！,最好的工具不解释!
 
 官网：https://gogocode.io
 
@@ -157,13 +157,13 @@ $(code)
 ### .prevAll()
 获取当前节点之前的同级节点
 
-### .next()
+### .next()  selcet
 获取后一个节点
 
 ### .nextAll()
 获取当前节点之后的同级节点
 
-### .each(callback)
+### .each(callback)  sha
 以每一个匹配的元素作为上下文来执行一个函数。
 
 | 入参 | 说明 | 类型 | 默认值 |
